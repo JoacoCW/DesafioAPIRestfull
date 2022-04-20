@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "El conde de montecristo",
+        "price": 1500
+    },
+    {
+        "id": 2,
+        "name": "Los 3 mosqueteros",
+        "price": 1800
+    },
+    {
+        "id": 3,
+        "name": "Sandokan",
+        "price": 1200
+    }
+]
